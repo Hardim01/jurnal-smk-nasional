@@ -1,4 +1,4 @@
 streamlit
 pandas
 cloudinary
-streamlit-gsheets
+st-gsheets-connection
